@@ -1,7 +1,7 @@
 # Maryam_Fatima_26K-3110_Lab_05
 PF_Lab Assignment Tasks (Both In and Post Lab Tasks)
-# PF_Lab_04
-## PF Lab 04 Assingment (In & Post Lab Tasks)
+# PF_Lab_05
+## PF Lab 05 Assingment (In & Post Lab Tasks)
 ### Student Information
 * **Name:** [Maryam Fatima]
 * **Roll Number:** [26K-3110]

@@ -36,5 +36,13 @@ This repository serves as a practical demonstration of the following in C langua
 **x-------------x-------------x-------------x-------------x-------------x-------------x**
 
 ### Post-Lab Tasks of PF_Lab 05 are mentioned below:
+* **<ins>TASK # 1 :</ins>** A weather monitoring system that tell the **Temperature Status** using                             if-else statements.
+* **<ins>TASK # 2 :</ins>** A Mobile Data Package Recharge system that checks wether the customer 
+                            has **"LOW BALANCE"**, **"SUFFICIENT BALANCE"**, OR **"PREMIUM  
+                            BALANCE"** before recharging using if-else statements.
+* **<ins>TASK # 3 :</ins>** A Hospital Appoinment system that decides whether the patient can meet 
+                            the doctor or not using nested if-else statements
+* **<ins>TASK # 4 :</ins>** An online Food order delivery system that checks whether the customer                              has sufficient balance or not and then displays the appropriate                                    message according to the order status using nested if-else statments.
+* **<ins>TASK # 5 :</ins>** An ATM and Transaction Selection system build using the nested switch                              control structures.
+**x-------------x-------------x-------------x-------------x-------------x-------------x**
 
-## Will be mentioned later.
